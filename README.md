@@ -38,7 +38,7 @@ Any of these power outlets , with USB-A power plugs selling on Aliexpress, can a
 - [40W Fast Charging Power Bank Portable 20000mAh](https://s.click.aliexpress.com/e/_DEHYs65)
 
 
-These battery storage uniti have the advantage of already comply with the minimumsafety standars making solar instalation much more easy.  
+These battery storage units have the advantage of already comply with the minimumsafety standars making solar instalation much more easy.  
 
 <br>
 
