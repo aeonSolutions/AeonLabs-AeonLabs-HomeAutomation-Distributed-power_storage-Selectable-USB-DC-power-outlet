@@ -46,6 +46,7 @@ Another Key function these power outlets are able to offer is the possibility of
 
 - [16850 Baterry Charger Holder](https://www.aliexpress.com/item/1005005034635675.html?channel=twinner)
 - [40W Fast Charging Power Bank Portable 20000mAh](https://s.click.aliexpress.com/e/_DEHYs65)
+- - [Two-way Fast Charging Power Bank Portable 80000mAh](https://s.click.aliexpress.com/e/_DmjzIyZ)
 
 
 These battery storage units have the advantage of already comply with the minimum safety standards making solar installation much more easy.  
