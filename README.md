@@ -30,6 +30,8 @@ This is a smart device made to fit this EU 220V power outlet with 2 USB A port s
  </a>
 </p>
 
+<br>
+
 Any of these power outlets , with USB-A power plugs selling on Aliexpress, can all be retrofitted with a Smart PCB like this one on this repository. Another Key function these power outletsare able to offer is the possibility of instalation of a distributed battery storage network on each room compartiment in a buiilding. Home or office. For insatnce using these kinds of UPS and Power banks:
 
 - [16850 Baterry Charger Holder](https://www.aliexpress.com/item/1005005034635675.html?channel=twinner)
