@@ -1,5 +1,9 @@
 # Selectable USB DC Power Outlet
 
+- 5V DC: Smartphones, tablets, smart devices, portable game consoles 🎮, indoor illumination using 5V LED
+- 9V DC: Handheld vacuum cleaners, robot vacuum cleaners, robot mop cleaners
+- 12V DC: Handheld vacuum cleaners, robot vacuum/mop cleaners, indoor illumination using 12V LED
+
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/power_outlet.jpeg" height="350">
 </p>
