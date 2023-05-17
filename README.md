@@ -30,7 +30,8 @@ This is a smart device made to fit this EU 220V power outlet with 2 USB A port s
  </a>
 </p>
 
-
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_red.png) Status
+  designing the PCB 
 
 ## Compatibility
 
