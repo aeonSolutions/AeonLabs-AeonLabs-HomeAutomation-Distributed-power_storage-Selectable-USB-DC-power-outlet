@@ -32,7 +32,17 @@ This is a smart device made to fit this EU 220V power outlet with 2 USB A port s
 
 <br>
 
-Any of these power outlets , with USB-A power plugs selling on AliExpress, can all be retrofitted with a Smart PCB like this one on this repository. Another Key function these power outlets are able to offer is the possibility of installation of a distributed battery storage network on each room compartment in a building. Home or office. For instance using these kinds of UPS and Power banks:
+Any of these power outlets , with USB-A power plugs selling on AliExpress, can all be retrofitted with a Smart PCB like this one on this repository. 
+
+- [Depoguye Wall Type Dual USB Power Socket](https://s.click.aliexpress.com/e/_DDNEMPR)
+- [Power Outlet with Usb Plug](https://s.click.aliexpress.com/e/_DDVWw9b)
+- [USB Wall Socket With Night Sensor](https://s.click.aliexpress.com/e/_DkQX4w9)
+- [UNKAS B8 Modules DIY EU Power Socket](https://s.click.aliexpress.com/e/_DC3Sgqz)
+
+
+<br>
+
+Another Key function these power outlets are able to offer is the possibility of installation of a distributed battery storage network on each room compartment in a building. Home or office. For instance using these kinds of UPS and Power banks:
 
 - [16850 Baterry Charger Holder](https://www.aliexpress.com/item/1005005034635675.html?channel=twinner)
 - [40W Fast Charging Power Bank Portable 20000mAh](https://s.click.aliexpress.com/e/_DEHYs65)
