@@ -36,7 +36,7 @@ Any of these power outlets , with USB-A power plugs selling on Aliexpress, can a
 
 - [16850 Baterry Charger Holder](https://www.aliexpress.com/item/1005005034635675.html?channel=twinner)
 
-
+<br>
 
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_red.png) Status
   designing the PCB 
