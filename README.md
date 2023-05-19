@@ -17,9 +17,9 @@
 
 # Selectable USB DC Power Outlet
 
-This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  This smart device enables management of multi low powered DC lines, in the range of 3.3V to 24V DC. Each individual USB-A port can be setup to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  
+This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  Is intened to be used with any of thse [distributed power managemnent](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) devices. 
 
-
+This smart device enables management of multi low powered DC lines, in the range of 3.3V to 24V DC. Each individual USB-A port can be setup to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  
 - 5V DC: Smartphones, tablets, smart devices, portable game consoles 🎮, indoor illumination using 5V LED
 - 9V DC: Handheld vacuum cleaners, robot vacuum cleaners, robot mop cleaners
 - 12V DC: Handheld vacuum cleaners, robot vacuum/mop cleaners, indoor illumination using 12V LED
