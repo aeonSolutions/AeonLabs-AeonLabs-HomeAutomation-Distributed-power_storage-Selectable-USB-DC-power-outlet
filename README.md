@@ -24,6 +24,8 @@ This smart device enables management of multi low powered DC lines, in the range
 - 9V DC: Handheld vacuum cleaners, robot vacuum cleaners, robot mop cleaners
 - 12V DC: Handheld vacuum cleaners, robot vacuum/mop cleaners, indoor illumination using 12V LED
 
+<br>
+
 <p align="center">
 <a href="https://s.click.aliexpress.com/e/_DlU2D7j">
  <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/power_outlet.jpeg" height="350">
