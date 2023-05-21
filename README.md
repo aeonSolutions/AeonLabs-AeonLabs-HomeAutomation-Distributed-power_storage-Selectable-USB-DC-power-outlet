@@ -23,6 +23,16 @@ This is a smart device made to fit this EU 220V power outlet with 2 USB A port s
  <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/pcb_front.png" height="350"> 
 </p>
 
+Features:
+-  Voltage monitor on both USB-A plugs
+-  Power Consumption  monitor on both USB-A plugs
+- Individual USB-A Plug ON/OFF Switch 
+-  Has a Security Chip
+-  RGB LED for Micro wave Jamming
+-  Allows connection to Small UPS via USB-A plugs 
+-  Allows connection to  2 LiPo Power Banks sold on AliExpress 
+
+<br>
 
 This smart device enables management of multi low powered DC lines, in the range of 3.3V to 24V DC. Each individual USB-A port can be setup to deliver individual DC output. For instance 5V DC on one port and 12V DC on the other.  
 - 5V DC: Smartphones, tablets, smart devices, portable game consoles 🎮, indoor illumination using 5V LED
@@ -60,8 +70,8 @@ These battery storage units have the advantage of already comply with the minimu
 
 <br>
 
-### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_red.png) Status
-  designing the PCB 
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status
+  waiting to be tested
 
 <br>
 
