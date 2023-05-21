@@ -1,5 +1,5 @@
 Drill report for 5V DC Smart Socket.kicad_pcb
-Created on 5/17/2023 8:13:29 AM
+Created on 5/21/2023 3:20:34 PM
 
 Copper Layer Stackup:
     =============================================================
@@ -10,17 +10,18 @@ Copper Layer Stackup:
 Drill file '5V DC Smart Socket-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0.400mm  0.0157"  (41 holes)
-    T2  0.900mm  0.0354"  (4 holes)
+    T1  0.400mm  0.0157"  (52 holes)
+    T2  0.900mm  0.0354"  (2 holes)
     T3  0.920mm  0.0362"  (8 holes)
-    T4  1.300mm  0.0512"  (2 holes)
+    T4  1.300mm  0.0512"  (4 holes)
     T5  2.300mm  0.0906"  (4 holes)
 
-    Total plated holes count 59
+    Total plated holes count 70
 
 
 Drill file '5V DC Smart Socket-NPTH.drl' contains
     unplated through holes:
     =============================================================
+    T1  0.700mm  0.0276"  (5 holes)
 
-    Total unplated holes count 0
+    Total unplated holes count 5
