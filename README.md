@@ -73,8 +73,8 @@ These battery storage units have the advantage of already comply with the minimu
 <br>
 
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_yellow.png) Status
-  waiting to be tested
-
+  waiting for fabrication
+  
 <p align="center">
 <a href="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/circuit%20schematic/circuit%20schematic%20by%20aeonlabs.pdf">
  <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/circuit%20schematic/circuit_schematic.png" height="350">
