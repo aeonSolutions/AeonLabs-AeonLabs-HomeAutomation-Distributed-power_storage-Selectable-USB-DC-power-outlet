@@ -20,8 +20,8 @@
 This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  Is intened to be used with any of thse [distributed power managemnent](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) devices. 
 
 <p align="center">
- <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/pcb_front.png" height="350"> 
- <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/pcb_back.png" height="350"> 
+ <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/pcb_front.png" height="300"> 
+ <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/pcb_back.png" height="300"> 
  
 </p>
 
