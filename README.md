@@ -21,6 +21,8 @@ This is a smart device made to fit this EU 220V power outlet with 2 USB A port s
 
 <p align="center">
  <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/pcb_front.png" height="350"> 
+ <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/pcb_back.png" height="350"> 
+ 
 </p>
 
 Features:
