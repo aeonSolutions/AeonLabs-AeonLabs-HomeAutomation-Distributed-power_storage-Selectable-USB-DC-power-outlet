@@ -17,7 +17,7 @@
 
 # Selectable USB DC Power Outlet
 
-This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  Is intended to be used with any of these [distributed power management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) devices. 
+This is a smart device made to fit this EU 220V power outlet with 2 USB A port selling [here](https://s.click.aliexpress.com/e/_DlU2D7j).  Is intended to be used with any of these [distributed power management](https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Distributed-power_storage/) devices.  If you prefer you can read this project on Autodesk Instructables.com [here](https://www.instructables.com/Selectable-USB-DC-Power-Outlet/).
 
 <p align="center">
  <img src="https://github.com/aeonSolutions/AeonLabs-AeonLabs-HomeAutomation-Distributed-power_storage-Selectable-USB-DC-power-outlet/blob/main/media/pcb_front.png" height="300"> 
